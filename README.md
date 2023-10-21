@@ -3,7 +3,7 @@
 
 # Deploy method
 ```
-1)Fork repo [cllick here](https://github.com/rooted-cyber/Termux-Ultroid)
+1)Fork repo 
 2)upload config.env and token.pickle
 3)Edit readme.md
 4)Deploly
